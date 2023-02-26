@@ -1,6 +1,4 @@
-# Attacking WAP and WAP2 Wireless Networks Using Airmon-ng and Airdump-ng
-
-# and Cracking using Aircrack-ng or Hashcat
+# Attacking WAP and WAP2 Wireless Networks Using Airmon-ng and Airdump-ng and Cracking using Aircrack-ng or Hashcat
 
 
 ## Capturing the 4-way Handshake
