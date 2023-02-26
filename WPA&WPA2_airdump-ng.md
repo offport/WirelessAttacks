@@ -1,4 +1,4 @@
-# Attacking WAP and WAP2 Wireless Networks Using Airmon-nga and Airdump-ng
+# Attacking WAP and WAP2 Wireless Networks Using Airmon-ng and Airdump-ng
 
 # and Cracking using Aircrack-ng or Hashcat
 
